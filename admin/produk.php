@@ -19,7 +19,7 @@
             <td><?php echo $nomor; ?></td>
             <td><?php echo $pecah['nama_produk']; ?></td>
             <td>Rp. <?php echo number_format($pecah['harga_produk']); ?></td>
-            <td><?php echo number_format($pecah['berat_produk']); ?> Gr.</td>
+            <td><?php echo number_format($pecah['berat_produk']); ?> Kg.</td>
             <td>
                 <img src="../foto_produk/<?php echo $pecah['foto_produk']; ?>" width="100">
             </td>

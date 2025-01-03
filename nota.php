@@ -67,8 +67,8 @@ if ($idpelangganyangbeli!==$idpelangganyanglogin)
             <th>No</th>
             <th>Nama Produk</th>
             <th>Harga</th>
-            <th>Berat</th>
             <th>Jumlah</th>
+            <th>Berat</th>
             <th>Subberat</th>
             <th>Subtotal</th>
         </tr>
@@ -81,9 +81,9 @@ if ($idpelangganyangbeli!==$idpelangganyanglogin)
             <td><?php echo $nomor; ?></td>
             <td><?php echo $pecah['nama']; ?></td>
             <td>Rp. <?php echo number_format($pecah['harga']); ?></td>
-            <td><?php echo number_format($pecah['berat']); ?> Gr.</td>
+            <td><?php echo number_format($pecah['berat']); ?> Kg.</td>
             <td><?php echo $pecah['jumlah']; ?></td>
-            <td><?php echo number_format($pecah['subberat']); ?> Gr.</td>
+            <td><?php echo number_format($pecah['subberat']); ?> Kg.</td>
             <td>Rp. <?php echo number_format($pecah['subharga']); ?></td>
     </tr>
     <?php $nomor++; ?>

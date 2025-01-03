@@ -8,7 +8,7 @@
                 <!-- jika sudah login(ada session pelanggan) -->
                 <?php if (isset($_SESSION["pelanggan"])): ?>
                     <li><a href="riwayat.php">Riwayat Pemesanan</a></li>
-                    <li><a href="logout.php">keluar</a></li>
+                    <li><a href="logout.php">Keluar</a></li>
                 <!-- selain itu jika belum login maka belum ada session pelanggan -->
                 <?php else: ?>
                     <li><a href="login.php">Masuk</a></li>

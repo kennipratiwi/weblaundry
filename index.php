@@ -12,7 +12,7 @@ include 'koneksi.php';
     <body>
         
     <div class="navbar-inner navbar-transparant">
-        <center><a href="index.php"><img src="images/head.jpg"  width="1540" height="200" allowfullscreen="" loading="lazy" > </a></center>
+        <center><a href="index.php"><img src="images/judul web.jpg"  width="1540" height="200" allowfullscreen="" loading="lazy" > </a></center>
 
     </div>
     
@@ -41,43 +41,59 @@ include 'koneksi.php';
         </div>
     </section>
     </body>
-<div class ="container">
+    <div class="container">
     <div class="row">
-<div>  <center><b><h1><font><color='black'>Kontak Kami:</h1></b></center></color></font>
+        <div>
+            <center><b>
+                    <h1>
+                        <font>
+                            <color='black'>Kontak Kami:
+                    </h1>
+                </b></center>
+            </color>
+            </font>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
 </div>
-<div class="clearfix"> </div>
-</div>
-</div>
-<div class="container">
-<div class="row">
-<div class="col-md-8 col-md-offset-0"> <br>
-<a href="https://api.whatsapp.com/send?phone=6281385160795" 
-target="_blank"><img src="images/whatsapp.jpg" width="65" 
-height="65" style="border:0"></a></br>
-<br>
-
-</div>
-<div class="container">
-<div class="row">
-<div class="col-md-31 col-md-offset-0">
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4><b><font color='teal'>Alamat </h4></b></color></font>
-<h4><b><font color='black'>Jl.Pisang Emas 2 No. 2, Harapan Baru 1, Bekasi Barat, Jawa Barat.</h3></color></font>
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3460342766834!2d106.96294431537001!3d-6.218017062634857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698c7bff1de68f%3A0xd443ef4c0963ba2a!2sJl.%20Pisang%20Emas%202%2C%20RT.004%2FRW.009%2C%20Kota%20Baru%2C%20Kec.%20Bekasi%20Bar.%2C%20Kota%20Bks%2C%20Jawa%20Barat%2017133!5e0!3m2!1sid!2sid!4v1655435208588!5m2!1sid!2sid" width="1100" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></br></a></center>
-</h6></div>
-
-<div class="clearfix"> </div>
-</div>
-<div class="footer">
 <div class="container">
     <div class="row">
-<center><div id="copyright-container">
-Copyright &copy; 2022 <a href="" 
-rel="home">Website Cuci Pakaian</a>
- <p class="credit"><a href=""></a> Rafi Peshawar Albuthy</p>
- </div>
-</div>
-</div>
-</div></center>
+        <div class="col-md-8 col-md-offset-0"> <br>
+            <a href="https://api.whatsapp.com/send?phone=6285227850874"
+                target="_blank"><img src="images/whatsapp.jpg" width="65"
+                    height="65" style="border:0"></a></br>
+            <br>
+
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-31 col-md-offset-0">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4><b>
+                                    <font color='teal'>Alamat </h4></b></color>
+                            </font>
+                            <h4><b>
+                                    <font color='black'>Jl Raya Kalisalak,Pendakreja,Kecamatan Kebasen,Kabupaten Banyumas, Jawa Tengah.</h3>
+                                        </color>
+                                    </font>
+                                    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.235879807609!2d109.21610009999999!3d-7.549237400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e65430067e8b391%3A0x9348aca3334e58de!2sBrayan%20Urip%20Furniture%20Dan%20Laundry%20Karpet%2CSofa%2CSpring%20bed%20(ARTINAH)!5e0!3m2!1sid!2sid!4v1734930671947!5m2!1sid!2sid" width="1120" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></br></a></center>
+                                    </h6>
+                        </div>
+
+                        <div class="clearfix"> </div>
+                    </div>
+                    <div class="footer">
+                        <div class="container">
+                            <div class="row">
+                                <center>
+                                    <div id="copyright-container">
+                                        Copyright &copy; 2024 <a href=""
+                                            rel="home">Website Cuci Karpet,Sofa,Springbed</a>
+                                        <p class="credit"><a href=""></a> Laundry Brayan Urip</p>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                    </center>
 </html>

@@ -12,7 +12,7 @@ include 'koneksi.php';
     <body>
         
     <div class="navbar-inner navbar-transparant">
-        <center><a href="index.php"><img src="images/head.jpg"  width="1540" height="200" allowfullscreen="" loading="lazy" > </a></center>
+        <center><a href="index.php"><img src="images/judul web.jpg"  width="1540" height="200" allowfullscreen="" loading="lazy" > </a></center>
 
     </div>
 
@@ -32,13 +32,13 @@ include 'koneksi.php';
                 <br><h5>* Pilih Jenis Layanan yang Anda Butuhkan</br></h5>
                         * Jika Anda Telah Memesan dan Membayar Tagihan yang Tertera Maka Kami Akan Menjemput ke Alamat Anda
                 <br><h5>* Jika Pesanan Sudah diproses Maka Tunggu Sampai Pesanan Anda Kembali diantar Kembali</br></h5>
-                        * Duduk dirumah dan Anda Siap Menerima Pakaian Bersih Kembali
+                        * Duduk dirumah dan Anda Siap Menerima Barang Bersih Kembali
                          <br></br> 
                          <br></br>
                         <center><div id="copyright-container">
                         <div class="inner hybrid">
-                        Copyright &copy; 2022 <a href="" rel="home">Website Cuci Pakaian</a>
-                        <p class="credit"><a href=""></a> Rafi Peshawar Albuthy</p>
+                        Copyright &copy; 2024 <a href="" rel="home">Website Cuci Karpet,Sofa,Springbed</a>
+                        <p class="credit"><a href=""></a> Laundry Brayan Urip</p>
                         </div>
                         </div></center>
 </body>

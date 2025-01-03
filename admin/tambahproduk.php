@@ -10,7 +10,7 @@
         <input type="number" class="form-control" name="harga">
     </div>
     <div class="form-group">
-        <label>Berat (Gr)</label>
+        <label>Berat (Kg)</label>
         <input type="number" class="form-control" name="berat">
     </div>
     <div class="form-group">
