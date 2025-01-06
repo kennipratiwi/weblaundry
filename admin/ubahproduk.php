@@ -14,7 +14,7 @@ $pecah = $ambil->fetch_assoc();
         <input type="number" class="form-control" name="harga" value="<?php echo $pecah['harga_produk']; ?>">
     </div>
     <div class="form-group">
-        <label>Berat (Kg)</label>
+        <label>Jumlah /item</label>
         <input type="number" class="form-control" name="berat" value="<?php echo $pecah['berat_produk']; ?>">
     </div>
     <div class="form-group">

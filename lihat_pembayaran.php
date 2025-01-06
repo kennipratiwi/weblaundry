@@ -12,7 +12,7 @@ LEFT JOIN pembelian ON pembayaran.id_pembelian=pembelian.id_pembelian
 WHERE pembelian.id_pembelian='$id_pembelian' ");
 $detail = $ambil->fetch_assoc();
 
-if (empty($detail))
+if (empty($detail)) 
 {
     echo "<script>alert('Belum Ada Data Pembayaran');</script>";
     echo "<script>location='riwayat.php';</script>";

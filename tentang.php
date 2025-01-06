@@ -12,7 +12,7 @@ include 'koneksi.php';
     <body>
         
     <div class="navbar-inner navbar-transparant">
-        <center><a href="index.php"><img src="images/judul web.jpg"  width="1540" height="200" allowfullscreen="" loading="lazy" > </a></center>
+        <center><a href="index.php"><img src="images/logo baru.jpg"  width="1300" height="200" allowfullscreen="" loading="lazy" > </a></center>
 
     </div>
 
